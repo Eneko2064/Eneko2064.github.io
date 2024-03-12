@@ -1,6 +1,11 @@
+html {
+  background-color: #607c38;
 h1 {
-  font-size: 90px;
+  font-size: 100px;
   text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #c1c9d5;
 }
 p,
 li {
@@ -8,20 +13,13 @@ li {
   line-height: 2;
   letter-spacing: 1px;
 }
-html {
-  background-color: #607c38;
-}
+
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #dad7cd;
+  background-color: #b5cef4;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
-}
-h1 {
-  margin: 0;
-  padding: 20px 0;
-  color: #606c38;
 }
 img {
   display: block;
